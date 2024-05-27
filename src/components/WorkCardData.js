@@ -5,6 +5,7 @@ import pro3 from "../assets/project3.png";
 const ProjectCardData = [
     {
         imgsrc: pro1,
+        alt: "Basic Model",
         title: "Basic Model",
         text: "Perfect package for an informational-based website. This package is meant for companies that want minimal costs and minimal updates.",
         view: "https://www.quihibethlehemlutheranchurch.org",

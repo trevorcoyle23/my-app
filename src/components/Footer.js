@@ -26,7 +26,7 @@ const Footer = () => {
 
                 <div className="right">
                     <h4>About Us</h4>
-                    <p>Founder Trevor Coyle, Co-Founder Justin Alcaraz</p>
+                    <p>CEO + Founder Trevor Coyle, Co-Founder Justin Alcaraz</p>
                     <div className="social">
                         <a href="https://github.com/trevorcoyle23" target="_blank" rel="noopener noreferrer">
                             <FaGithub size={30} style={{color:"#fff", marginRight:"1rem"}} />

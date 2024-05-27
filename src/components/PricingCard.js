@@ -10,7 +10,7 @@ const PricingCard = () => {
                 <div className="card">
                     <h3>- Basic Model -</h3>
                     <span className="bar"></span>
-                    <p className="btc">$ 1000</p>
+                    <p className="btc">$ 1,000</p>
                     <p>- Basic Webpage Design -</p>
                     <p>- Basic JS Operations -</p>
                     <p>- Information Based -</p>
@@ -21,7 +21,7 @@ const PricingCard = () => {
                 <div className="card">
                     <h3>- eShop Model -</h3>
                     <span className="bar"></span>
-                    <p className="btc">$ 5000</p>
+                    <p className="btc">$ 5,000</p>
                     <p>- UI/UX Design -</p>
                     <p>- Cart System -</p>
                     <p>- Authenticate User Data -</p>
@@ -32,7 +32,7 @@ const PricingCard = () => {
                 <div className="card">
                     <h3>- Social Model -</h3>
                     <span className="bar"></span>
-                    <p className="btc">$ 8000</p>
+                    <p className="btc">$ 8,000</p>
                     <p>- High-End Servers -</p>
                     <p>- Front-End & Server-Side Development-</p>
                     <p>- Full Stack w/ Firebase -</p>
